@@ -16,5 +16,7 @@ int main() {
     printf("Valore intero a 16 bit nel formato di rete: %x\n", net_short);
 
   printf("git\n");
+  printf("git2\n");
+  
     return 0;
 }
