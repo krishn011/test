@@ -14,6 +14,7 @@ int main() {
   uint16_t host_short = 0x1234;
     uint16_t net_short = htons(host_short);
     printf("Valore intero a 16 bit nel formato di rete: %x\n", net_short);
-  
+
+  printf("git\n");
     return 0;
 }
